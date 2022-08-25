@@ -1,4 +1,5 @@
 import { apiDELETE, apiUPDATE } from "./API/APIRES";
+let a = "sds";
 
 export const DATAFIREBASE = (users: any) => {
   const deleteUser = async (id: any) => {
